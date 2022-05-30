@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @yulia-loseva
 - 👀 I’m interested in functional programming
-- 🌱 I’m currently learning Rust, PostgreSQL, Reddis, Docker, SQL, NoSQL
+- 🌱 I’m currently learning Rust, PostgreSQL, Redis, Docker, Linux, SQL, NoSQL
 - 💞️ I’m looking to collaborate on on the development of rust programs
 - 📫 How to reach me:
   * dev-yulia-loseva@yandex.ru
